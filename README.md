@@ -249,16 +249,6 @@ The `.gitignore` excludes uploaded documents and generated extraction outputs wh
 
 ---
 
-## Resume Bullets
-
-- Built VisionDoc AI, a local-first document intelligence platform using FastAPI, Streamlit, OCR, and Qwen3-8B to extract structured JSON from invoices, receipts, and scanned documents.
-- Engineered a PDF/image ingestion pipeline supporting 7 file formats with PyMuPDF text parsing, Tesseract OCR fallback, and local JSON persistence.
-- Implemented LLM-driven document classification across 7 categories, extracting vendor, recipient, dates, totals, currency, line items, and summary fields.
-- Added validation logic for invoice and receipt arithmetic, automatically checking subtotal, tax, and total consistency within a 0.05 tolerance.
-- Designed a polished portfolio-ready interface with downloadable JSON/CSV outputs, live backend health checks, and recent-analysis tracking.
-
----
-
 ## Future Improvements
 
 - Add confidence scores for extracted fields

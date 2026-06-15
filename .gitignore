@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# Runtime data
+data/uploads/*
+data/outputs/*
+!data/uploads/.gitkeep
+!data/outputs/.gitkeep
+
+# Local artifacts
+*.log

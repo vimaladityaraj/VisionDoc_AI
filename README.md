@@ -8,19 +8,17 @@ It is designed as an AI Engineer portfolio project that demonstrates document in
 
 ## Demo Preview
 
-Add screenshots after running the app:
+## Home Screen
 
-```text
-assets/home.png
-assets/extraction.png
-assets/json-output.png
-```
+![Home Screen](assets/home.png)
 
-Example README image syntax:
+## Document Extraction
 
-```markdown
-![VisionDoc AI Demo](assets/home.png)
-```
+![Extraction](assets/extraction.png)
+
+## Structured JSON Output
+
+![JSON Output](assets/json-output.png)
 
 ---
 

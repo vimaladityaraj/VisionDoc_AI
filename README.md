@@ -110,7 +110,7 @@ VisionDoc_AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VisionDoc_AI.git
+git clone https://github.com/vimaladityaraj/VisionDoc_AI.git
 cd VisionDoc_AI
 ```
 
